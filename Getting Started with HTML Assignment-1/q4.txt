@@ -1,0 +1,23 @@
+4.Write a short note on Tag and element with an example.
+Ans-Tag:
+In HTML, a tag is a fundamental building block used to define elements within a document. Tags are keywords enclosed in angle brackets (< and >), and they indicate the beginning and end of an element. 
+
+Here's an example of an HTML tag:
+<p>
+  This is a paragraph element.
+</p>
+
+In this example:
+<p> is the opening tag, indicating the start of a paragraph element.
+</p> is the closing tag, indicating the end of the paragraph element.
+
+Element:
+An element is a complete set of tags that define a specific part of an HTML document. It consists of both the opening tag, the closing tag, and the content between them. Elements can be nested inside each other, creating a hierarchical structure.
+
+Here's an example with nested elements:
+<div>
+  <h2>This is a heading</h2>
+  <p>This is a paragraph inside a div element.</p>
+</div>
+
+Inside the <div>, there are two elements: a <h2> heading element and a <p> paragraph element.
